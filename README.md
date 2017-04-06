@@ -3,8 +3,8 @@
 ### Research Interests  
 signal processing, computer vision, and applications related to inertial sensors   
 ### Professional Activities   
-* <b>Reviewer for Journals</b>: IEEE Transactions on Robotics, IEEE Transactions on Industrial Electronics, IEEE Transactions on Instrumentation and Measurement, OSA Optics Express  
-* <b>Reviewer for Conferences</b>:IEEE VR 2013, IEEE ICRA 2017  
+* <font size="4">Reviewer for Journals</font>: IEEE Transactions on Robotics, IEEE Transactions on Industrial Electronics, IEEE Transactions on Instrumentation and Measurement, OSA Optics Express  
+* <font size="4">Reviewer for Conferences</font>:IEEE VR 2013, IEEE ICRA 2017  
 
 ## Publications  
 ### International Journals  
