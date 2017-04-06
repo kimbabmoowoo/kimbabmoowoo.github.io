@@ -8,7 +8,7 @@ signal processing, computer vision, and applications related to inertial sensors
 <font size="3">IEEE Transactions on Robotics, IEEE Transactions on Industrial Electronics, IEEE Transactions on Instrumentation and Measurement, OSA Optics Express</font>  
 
 **Reviewer for Conferences**:  
-IEEE VR 2013, IEEE ICRA 2017
+<font size="3">IEEE VR 2013, IEEE ICRA 2017</font>
 
 ## Publications  
 ### International Journals  
