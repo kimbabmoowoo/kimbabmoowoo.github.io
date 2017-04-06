@@ -4,8 +4,7 @@
 Research Interests: signal processing, computer vision, and applications related to inertial sensors   
 Professional Activities:   
 * Reviewer for Journals: IEEE Transactions on Robotics, IEEE Transactions on Industrial Electronics, IEEE Transactions on Instrumentation and Measurement, OSA Optics Express  
-* Reviewer for Conferences:IEEE VR 2013, IEEE ICRA 2017     
-------------------
+* Reviewer for Conferences:IEEE VR 2013, IEEE ICRA 2017    
 
 #### International Journals    
 1. Donghoon Kang, Jinwook Kim, Sung-Kyu Kim, "**Affine Registration of 3D Point Sets for Improving the Accuracy of Eye Position Trackers**," SPIE Optical Engineering (**SCI**), (accepted for publication)   
