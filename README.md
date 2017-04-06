@@ -1,4 +1,4 @@
-![fig](https://raw.githubusercontent.com/kimbabmoowoo/kimbabmoowoo.github.io/master/dhk5.jpg)  
+![fig](https://raw.githubusercontent.com/kimbabmoowoo/kimbabmoowoo.github.io/master/dhk5.jpg)   
 <span style="font-weight:bold; font-size: 1.5em">Donghoon Kang</span>  
 
 <font size="10">Research Interests</font>  
