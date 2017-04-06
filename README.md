@@ -1,5 +1,5 @@
 ![fig](https://raw.githubusercontent.com/kimbabmoowoo/kimbabmoowoo.github.io/master/dhk5.jpg)  
-<font size="10"><b>Donghoon Kang</b></font>  
+<font size="6"><b>Donghoon Kang</b></font>  
 
 <font size="30"><b>Research Interests</b></font>  
 signal processing, computer vision, and applications related to inertial sensors  
