@@ -3,7 +3,8 @@
 
 <span style="color:#2E2E2E; font-weight:bold">Research Interests</span>: signal processing, computer vision, and applications related to inertial sensors   
 * <span style="color:#2E2E2E; font-weight:bold">Reviewer for Journals</span>: IEEE Transactions on Robotics, IEEE Transactions on Industrial Electronics, IEEE Transactions on Instrumentation and Measurement, OSA Optics Express  
-* <span style="color:#2E2E2E; font-weight:bold">Reviewer for Conferences</span>:IEEE VR 2013, IEEE ICRA 2017    
+* <span style="color:#2E2E2E; font-weight:bold">Reviewer for Conferences</span>:IEEE VR 2013, IEEE ICRA 2017   
+------   
 
 ### Publications  
 #### International Journals    
