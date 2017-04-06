@@ -1,7 +1,7 @@
-![fig](https://raw.githubusercontent.com/kimbabmoowoo/kimbabmoowoo.github.io/master/dhk5.jpg)   
-<span style="font-weight:bold; font-size:6">Donghoon Kang</span>  
+![fig](https://raw.githubusercontent.com/kimbabmoowoo/kimbabmoowoo.github.io/master/dhk5.jpg)   
+<font size="3">Donghoon Kang</font>  
 
-<font size="6">Research Interests</font>  
+<font size="4">Research Interests</font>  
 signal processing, computer vision, and applications related to inertial sensors  
 
 ## Professional Activities  
