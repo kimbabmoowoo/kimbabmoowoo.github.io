@@ -1,5 +1,5 @@
 ![fig](https://raw.githubusercontent.com/kimbabmoowoo/kimbabmoowoo.github.io/master/dhk5.jpg)  
-## Donghoon Kang 
+# Donghoon Kang 
 
 ## Research Interests  
 signal processing, computer vision, and applications related to inertial sensors  
