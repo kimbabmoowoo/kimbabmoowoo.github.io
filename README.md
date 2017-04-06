@@ -3,8 +3,9 @@
 
 <span style="color:#2E2E2E; font-weight:bold">Research Interests</span>: signal processing, computer vision, and applications related to inertial sensors   
 * <span style="color:#2E2E2E; font-weight:bold">Reviewer for Journals</span>: IEEE Transactions on Robotics, IEEE Transactions on Industrial Electronics, IEEE Transactions on Instrumentation and Measurement, OSA Optics Express  
-* <span style="color:#2E2E2E; font-weight:bold">Reviewer for Conferences</span>:IEEE VR 2013, IEEE ICRA 2017  
+* <span style="color:#2E2E2E; font-weight:bold">Reviewer for Conferences</span>:IEEE VR 2013, IEEE ICRA 2017    
 
+### Publications  
 #### International Journals    
 1. Donghoon Kang, Jinwook Kim, Sung-Kyu Kim, "**Affine Registration of 3D Point Sets for Improving the Accuracy of Eye Position Trackers**," SPIE Optical Engineering (**SCI**), (accepted for publication)   
 1. Junhyoung Ha, Donghoon Kang, Frank C. Park, "[**A Stochastic Global Optimization Algorithm for the Two-Frame Sensor Calibration Problem**](http://ieeexplore.ieee.org/document/7347394/?tp=&arnumber=7347394)," IEEE Transactions on Industrial Electronics (**SCI**), vol.63, no.4, 2016.   
