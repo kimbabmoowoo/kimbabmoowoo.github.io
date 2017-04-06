@@ -22,4 +22,7 @@ signal processing, computer vision, and applications related to inertial sensors
 1. Yujin Jung, Donghoon Kang, Jinwook Kim, "**Upper Body Motion Tracking with Inertial Sensors**," IEEE ROBIO, 2010.  
 1. Jane Hwang, Ig-Jae Kim, Donghoon Kang, Sang Chul Ahn, "**Motion-based Interaction for Mirror World in Mobile Devices**," Springer, HCI International (LNCS), 2009.  
 1. Sangchul Ahn, Donghoon Kang, Heedong Ko, Yoonchul Choy, "**The Interaction Framework for Context Aware Systems**," Springer, HCI International (LNCS), 2005.
-1. Jung-Young Son, Sergey A. Shestak, Vladmir P. Huschyn, Vitaliy A. Ulizko, Donghoon Kang, "**Live 3-D Video in Volumetric Display**," SPIE Proceeding, Vol. 4660, 2002.
+1. Jung-Young Son, Sergey A. Shestak, Vladmir P. Huschyn, Vitaliy A. Ulizko, Donghoon Kang, "**Live 3-D Video in Volumetric Display**," SPIE Proceeding, Vol. 4660, 2002.  
+
+### Domestic Journals  
+1. Yu.N. Gruts, Jung-Young Son, Donghoon Kang, "[**Stereoscopic Operators and Their Application**](https://www.osapublishing.org/josk/abstract.cfm?uri=josk-5-3-90)," Journal of the Optical Society of Korea (JOSK), vol.5, no.3, 2001.
