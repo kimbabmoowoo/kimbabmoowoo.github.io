@@ -20,4 +20,5 @@ IEEE VR 2013, IEEE ICRA 2017
 1. Anjin Park, Hyeong Rae Choi, Yujin Jung, Sungkuk Chun, Donghoon Kang, Jinwook Kim, "**Bidirectional Interplay between Tracking and the Rider Simulator and Its Application to Snowboarding**," IEEE DMDCM, 2011.  
 1. Donghoon Kang, Jong-Phil Kim, Jinwook Kim, Heedong Ko, "**Identification Scheme for the Affine Sensor Model**," IEEE ICCAS, 2010.  
 1. Yujin Jung, Donghoon Kang, Jinwook Kim, "**Upper Body Motion Tracking with Inertial Sensors**," IEEE ROBIO, 2010.  
-1. Jane Hwang, Ig-Jae Kim, Donghoon Kang, Sang Chul Ahn, "**Motion-based Interaction for Mirror World in Mobile Devices**," Springer, HCI International (LNCS), 2009.
+1. Jane Hwang, Ig-Jae Kim, Donghoon Kang, Sang Chul Ahn, "**Motion-based Interaction for Mirror World in Mobile Devices**," Springer, HCI International (LNCS), 2009.  
+1. Sangchul Ahn, Donghoon Kang, Heedong Ko, Yoonchul Choy, "**The Interaction Framework for Context Aware Systems**," Springer, HCI International (LNCS), 2005.
