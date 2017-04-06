@@ -6,6 +6,7 @@ signal processing, computer vision, and applications related to inertial sensors
 ## Professional Activities  
 **Reviewer for Journals**:  
 <font size="3">IEEE Transactions on Robotics, IEEE Transactions on Industrial Electronics, IEEE Transactions on Instrumentation and Measurement, OSA Optics Express</font>  
+
 **Reviewer for Conferences**:  
 IEEE VR 2013, IEEE ICRA 2017
 
@@ -21,3 +22,4 @@ IEEE VR 2013, IEEE ICRA 2017
 1. Yujin Jung, Donghoon Kang, Jinwook Kim, "**Upper Body Motion Tracking with Inertial Sensors**," IEEE ROBIO, 2010.  
 1. Jane Hwang, Ig-Jae Kim, Donghoon Kang, Sang Chul Ahn, "**Motion-based Interaction for Mirror World in Mobile Devices**," Springer, HCI International (LNCS), 2009.  
 1. Sangchul Ahn, Donghoon Kang, Heedong Ko, Yoonchul Choy, "**The Interaction Framework for Context Aware Systems**," Springer, HCI International (LNCS), 2005.
+1. Jung-Young Son, Sergey A. Shestak, Vladmir P. Huschyn, Vitaliy A. Ulizko, Donghoon Kang, "**Live 3-D Video in Volumetric Display**," SPIE Proceeding, Vol. 4660, 2002.
