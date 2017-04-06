@@ -1,13 +1,9 @@
 ![fig](https://raw.githubusercontent.com/kimbabmoowoo/kimbabmoowoo.github.io/master/dhk5.jpg)<br><font size="5">Donghoon Kang</font>   
 
 <b>Research Interests</b>: signal processing, computer vision, and applications related to inertial sensors  
-
-## Professional Activities  
-### Reviewer for Journals:  
-<font size="3">IEEE Transactions on Robotics, IEEE Transactions on Industrial Electronics, IEEE Transactions on Instrumentation and Measurement, OSA Optics Express</font>  
-
-### Reviewer for Conferences:  
-<font size="3">IEEE VR 2013, IEEE ICRA 2017</font>
+<b>Professional Activities</b> 
+<b>Reviewer for Journals</b>: IEEE Transactions on Robotics, IEEE Transactions on Industrial Electronics, IEEE Transactions on Instrumentation and Measurement, OSA Optics Express  
+<b>Reviewer for Conferences</b>:IEEE VR 2013, IEEE ICRA 2017  
 
 ## Publications  
 ### International Journals  
