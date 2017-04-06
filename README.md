@@ -1,4 +1,4 @@
-![fig](https://raw.githubusercontent.com/kimbabmoowoo/kimbabmoowoo.github.io/master/dhk5.jpg)<br><font size="5">Donghoon Kang</font>  
+![fig](https://raw.githubusercontent.com/kimbabmoowoo/kimbabmoowoo.github.io/master/dhk5.jpg)<b>Donghoon Kang</b>  
 Research scientis at Korea Institute of Science and Technology (KIST)
 ----------------
 
