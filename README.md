@@ -2,7 +2,7 @@
 <font size="5">Donghoon Kang</font>   
 Research Scientist at Korea Institute of Science and Technology (KIST)   
 
-**Research Interests**: signal processing and computer vision  
+**Research Interests**: Signal Processing and Computer Vision  
 Professional Activities:    
 * **Reviewer for Journals**: IEEE Transactions on Robotics, IEEE Transactions on Industrial Electronics, IEEE Transactions on Instrumentation and Measurement, OSA Optics Express  
 * **Reviewer for Conferences**: IEEE VR 2013, IEEE ICRA 2017   
