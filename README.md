@@ -9,7 +9,7 @@ Professional Activities:  
 
 #### International Journals    
 1. Donghoon Kang, Jinwook Kim, Sung-Kyu Kim, "[**Affine Registration of Three-Dimensional Point Sets for Improving the Accuracy of Eye Position Trackers**](https://github.com/kimbabmoowoo/kimbabmoowoo.github.io/blob/master/OE_56_4_043105.pdf)," SPIE, Optical Engineering (**SCI**), vol.56, no.4, 2017.  
-1. Junhyoung Ha, Donghoon Kang, Frank C. Park, "[**A Stochastic Global Optimization Algorithm for the Two-Frame Sensor Calibration Problem**](http://ieeexplore.ieee.org/document/7347394/?tp=&arnumber=7347394)," IEEE Transactions on Industrial Electronics (**SCI**), vol.63, no.4, 2016.   
+1. Junhyoung Ha, Donghoon Kang, Frank C. Park, "[**A Stochastic Global Optimization Algorithm for the Two-Frame Sensor Calibration Problem**](https://github.com/kimbabmoowoo/kimbabmoowoo.github.io/blob/master/TIE2505690.pdf)," IEEE Transactions on Industrial Electronics (**SCI**), vol.63, no.4, 2016.   
 1.  Sungkuk Chun, Donghoon Kang, Hyeong-Rae Choi, Anjin Park, Ki-Kwang Lee, Jinwook Kim, "[**A Sensor-aided Self Coaching Model for Uncocking Improvement in Golf Swing**](http://link.springer.com/article/10.1007/s11042-013-1359-2)," Springer, Multimedia Tools and Applications (SCIE), vol.72, no.1, 2014.  
 
 #### International Conferences  
