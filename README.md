@@ -8,9 +8,9 @@ Professional Activities:  
 * **Reviewer for Conferences**: IEEE VR 2013, IEEE ICRA 2017   
 
 #### International Journals    
-1. Donghoon Kang, Jinwook Kim, Sung-Kyu Kim, "[**Affine Registration of Three-Dimensional Point Sets for Improving the Accuracy of Eye Position Trackers**](https://github.com/kimbabmoowoo/kimbabmoowoo.github.io/blob/master/OE_Affine registration of three-dimensional point sets.pdf)," SPIE, Optical Engineering (**SCI**), vol.56, no.4, 2017.  
-1. Junhyoung Ha, Donghoon Kang, Frank C. Park, "[**A Stochastic Global Optimization Algorithm for the Two-Frame Sensor Calibration Problem**](https://github.com/kimbabmoowoo/kimbabmoowoo.github.io/blob/master/TIE-Stochastic Global Optimization.pdf)," IEEE Transactions on Industrial Electronics (**SCI**), vol.63, no.4, 2016.   
-1.  Sungkuk Chun, Donghoon Kang, Hyeong-Rae Choi, Anjin Park, Ki-Kwang Lee, Jinwook Kim, "[**A Sensor-aided Self Coaching Model for Uncocking Improvement in Golf Swing**](https://github.com/kimbabmoowoo/kimbabmoowoo.github.io/blob/master/MTA-sensor-aided self coaching model.pdf)," Springer, Multimedia Tools and Applications (SCIE), vol.72, no.1, 2014.  
+1. Donghoon Kang, Jinwook Kim, Sung-Kyu Kim, "[**Affine Registration of Three-Dimensional Point Sets for Improving the Accuracy of Eye Position Trackers**](https://github.com/kimbabmoowoo/kimbabmoowoo.github.io/blob/master/oe_affine-registration.pdf)," SPIE, Optical Engineering (**SCI**), vol.56, no.4, 2017.  
+1. Junhyoung Ha, Donghoon Kang, Frank C. Park, "[**A Stochastic Global Optimization Algorithm for the Two-Frame Sensor Calibration Problem**](https://github.com/kimbabmoowoo/kimbabmoowoo.github.io/blob/master/tie-stochastic-global-optimization.pdf)," IEEE Transactions on Industrial Electronics (**SCI**), vol.63, no.4, 2016.   
+1.  Sungkuk Chun, Donghoon Kang, Hyeong-Rae Choi, Anjin Park, Ki-Kwang Lee, Jinwook Kim, "[**A Sensor-aided Self Coaching Model for Uncocking Improvement in Golf Swing**](https://github.com/kimbabmoowoo/kimbabmoowoo.github.io/blob/master/mta-sensor-aided.pdf)," Springer, Multimedia Tools and Applications (SCIE), vol.72, no.1, 2014.  
 
 #### International Conferences  
 1. Anjin Park, Yujin Jung, Sungkuk Chun, Donghoon Kang, Jinwook Kim, "**Track and Move or Move and Track? : Bi-directional Interplay between Tracking and Ride Simulator**," IEEE ICISA, 2011.  
@@ -22,4 +22,4 @@ Professional Activities:  
 1. Jung-Young Son, Sergey A. Shestak, Vladmir P. Huschyn, Vitaliy A. Ulizko, Donghoon Kang, "**Live 3-D Video in Volumetric Display**," SPIE Proceeding, Vol. 4660, 2002.  
 
 #### Domestic Journals  
-1. Yu.N. Gruts, Jung-Young Son, Donghoon Kang, "[**Stereoscopic Operators and Their Application**](https://github.com/kimbabmoowoo/kimbabmoowoo.github.io/blob/master/josk-stereroscopic operator.pdf)," Journal of the Optical Society of Korea (JOSK), vol.5, no.3, 2001.
+1. Yu.N. Gruts, Jung-Young Son, Donghoon Kang, "[**Stereoscopic Operators and Their Application**](https://github.com/kimbabmoowoo/kimbabmoowoo.github.io/blob/master/josk-stereroscopic.pdf)," Journal of the Optical Society of Korea (JOSK), vol.5, no.3, 2001.
