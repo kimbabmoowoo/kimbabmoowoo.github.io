@@ -22,4 +22,4 @@ Professional Activities:  
 1. Jung-Young Son, Sergey A. Shestak, Vladmir P. Huschyn, Vitaliy A. Ulizko, Donghoon Kang, "**Live 3-D Video in Volumetric Display**," SPIE Proceeding, Vol. 4660, 2002.  
 
 #### Domestic Journals  
-1. Yu.N. Gruts, Jung-Young Son, Donghoon Kang, "[**Stereoscopic Operators and Their Application**](https://www.osapublishing.org/josk/abstract.cfm?uri=josk-5-3-90)," Journal of the Optical Society of Korea (JOSK), vol.5, no.3, 2001.
+1. Yu.N. Gruts, Jung-Young Son, Donghoon Kang, "[**Stereoscopic Operators and Their Application**](https://github.com/kimbabmoowoo/kimbabmoowoo.github.io/blob/master/josk-stereroscopic operator.pdf)," Journal of the Optical Society of Korea (JOSK), vol.5, no.3, 2001.
