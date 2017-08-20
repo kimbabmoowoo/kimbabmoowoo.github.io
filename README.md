@@ -4,7 +4,8 @@ Research Scientist at Korea Institute of Science and Technology (KIST)
 
 **Research Interests**: Signal Processing and Computer Vision  
 Professional Activities:    
-* **Reviewer for Journals**: IEEE Transactions on Robotics, IEEE Transactions on Industrial Electronics, IEEE Transactions on Instrumentation and Measurement, OSA Optics Express  
+* **Reviewer for Journals**: IEEE Transactions on Robotics, IEEE Transactions on Industrial Electronics, IEEE Sensors Journal, 
+IEEE Transactions on Instrumentation and Measurement, OSA Optics Express  
 * **Reviewer for Conferences**: IEEE VR 2013, IEEE ICRA 2017   
 
 #### International Journals    
