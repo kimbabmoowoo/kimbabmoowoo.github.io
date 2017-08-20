@@ -5,7 +5,7 @@ Research Scientist at Korea Institute of Science and Technology (KIST)
 **Research Interests**: Signal Processing and Computer Vision  
 Professional Activities:    
 * **Reviewer for Journals**: IEEE Transactions on Robotics, IEEE Transactions on Industrial Electronics, IEEE Transactions on Instrumentation and Measurement, IEEE Sensors Journal, OSA Optics Express
-* **Reviewer for Conferences**: IEEE VR 2013, IEEE ICRA 2017   
+* **Reviewer for Conferences**: IEEE VR 2013, IEEE ICRA 2017
 
 #### International Journals    
 1. Donghoon Kang, Jinwook Kim, Sung-Kyu Kim, "[**Affine Registration of Three-Dimensional Point Sets for Improving the Accuracy of Eye Position Trackers**](https://github.com/kimbabmoowoo/kimbabmoowoo.github.io/blob/master/oe_affine-registration.pdf)," SPIE, Optical Engineering (**SCI**), vol.56, no.4, 2017.  
