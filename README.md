@@ -4,13 +4,12 @@ Research Scientist at Korea Institute of Science and Technology (KIST)
 
 **Research Interests**: Signal Processing and Computer Vision  
 Professional Activities:    
-* **Reviewer for Journals**: IEEE Transactions on Robotics, IEEE Transactions on Industrial Electronics, IEEE Sensors Journal,  
-IEEE Transactions on Instrumentation and Measurement, OSA Optics Express  
+* **Reviewer for Journals**: IEEE Tran. on Robotics, IEEE Tran. on Industrial Electronics, IEEE Tran. on Instrumentation and Measurement, IEEE Sensors Journal, OSA Optics Express  
 * **Reviewer for Conferences**: IEEE VR 2013, IEEE ICRA 2017
 
 #### International Journals    
 1. Donghoon Kang, Jinwook Kim, Sung-Kyu Kim, "[**Affine Registration of Three-Dimensional Point Sets for Improving the Accuracy of Eye Position Trackers**](https://github.com/kimbabmoowoo/kimbabmoowoo.github.io/blob/master/oe_affine-registration.pdf)," SPIE, Optical Engineering (**SCI**), vol.56, no.4, 2017.  
-1. Junhyoung Ha, Donghoon Kang, Frank C. Park, "[**A Stochastic Global Optimization Algorithm for the Two-Frame Sensor Calibration Problem**](https://github.com/kimbabmoowoo/kimbabmoowoo.github.io/blob/master/tie-stochastic-global-optimization.pdf)," IEEE Transactions on Industrial Electronics (**SCI**), vol.63, no.4, 2016.   
+1. Junhyoung Ha, Donghoon Kang, Frank C. Park, "[**A Stochastic Global Optimization Algorithm for the Two-Frame Sensor Calibration Problem**](https://github.com/kimbabmoowoo/kimbabmoowoo.github.io/blob/master/tie-stochastic-global-optimization.pdf)," IEEE Tran. on Industrial Electronics (**SCI**), vol.63, no.4, 2016.   
 1.  Sungkuk Chun, Donghoon Kang, Hyeong-Rae Choi, Anjin Park, Ki-Kwang Lee, Jinwook Kim, "[**A Sensor-aided Self Coaching Model for Uncocking Improvement in Golf Swing**](https://github.com/kimbabmoowoo/kimbabmoowoo.github.io/blob/master/mta-sensor-aided.pdf)," Springer, Multimedia Tools and Applications (SCIE), vol.72, no.1, 2014.  
 
 #### International Conferences  
