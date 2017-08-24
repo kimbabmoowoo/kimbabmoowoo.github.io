@@ -1,6 +1,6 @@
 ![fig](https://raw.githubusercontent.com/kimbabmoowoo/kimbabmoowoo.github.io/master/dhk5.jpg)   
 <font size="5">Donghoon Kang</font>   
-Research Scientist at Korea Institute of Science and Technology (KIST)   
+Research scientist at Korea Institute of Science and Technology (KIST)   
 
 **Research Interests**: Signal Processing and Computer Vision  
 Professional Activities:    
