@@ -1,0 +1,66 @@
+
+\documentclass[letterpaper, 10 pt, conference]{ieeeconf}  % Comment this line out if you need a4paper
+%\documentclass[a4paper, 10pt, conference]{ieeeconf}      % Use this line for a4 paper
+
+\IEEEoverridecommandlockouts                              % This command is only needed if
+                                                          % you want to use the \thanks command
+
+\overrideIEEEmargins                                      % Needed to meet printer requirements.
+
+\usepackage{amsmath} % assumes amsmath package installed
+\usepackage{amssymb}  % assumes amsmath package installed
+
+\title{\LARGE \bf
+Unscented Kalman Filtering for Simultaneous Estimation of
+Attitude and Gyroscope Bias
+}
+
+
+\author{Donghoon~Kang$^{1, 2}$, \IEEEmembership{Member,~IEEE,} Cheongjae Jang$^{1}$,
+ and Frank~C.~Park$^{1}$,~\IEEEmembership{Fellow,~IEEE}% <-this % stops a space
+\thanks{This work was supported in part by the NAVER LABS, 
+the SNU-IAMD, BK21+, the MI Technology Innovation Program 10048320,
+the National Research Foundation of Korea under Grant
+NRF2016R1A5A1938472, the Industrial Core Technology Development
+Project through MOTIE (1006-9072), SNU BMRR
+Center under Grant DAPA-UD160027ID, and the KIST Institutional
+Project. (\emph{Corresponding author: Frank C. Park}.)}% <-this % stops a space
+\thanks{$^{1}$Department of Mechanical and Aerospace Engineering,
+        Seoul National University, Seoul, Korea
+        (e-mail:
+        {\tt\small kimbab.moowoo@gmail.com; jchastro@gmail.com; fcp@snu.ac.kr}).}%
+\thanks{$^{2}$Imaging Median Research Center, Korea Institute of Science and Technology
+        Seoul, Korea
+        }%
+}
+
+
+\begin{document}
+
+
+
+\maketitle
+\thispagestyle{empty}
+\pagestyle{empty}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{abstract}
+We present an unscented Kalman filtering (UKF) algorithm for simultaneously
+estimating attitude and gyroscope bias from an inertial measurement unit
+(IMU).  The algorithm is formulated as a discrete-time stochastic nonlinear
+filter, with state space given by the direct product matrix Lie group
+$\mbox{SO(3)} \times \mathbb{R}^3$, and observations in $\mbox{SO(3)}$
+reconstructed from IMU measurements of gravity and the earth's magnetic
+field.  Computationally efficient implementations of our filter are made
+possible by formulating the state space dynamics and measurement equations
+in a way that leads to closed-form equations for covariance propagation
+and update.  The resulting attitude estimates are invariant with respect
+to choice of fixed and moving reference frames.  The performance advantages
+of our filter vis-\`{a}-vis existing state-of-the-art IMU attitude
+estimation algorithms are validated via numerical and hardware experiments
+involving both synthetic and real data.
+\end{abstract}
+
+
+\end{document}
