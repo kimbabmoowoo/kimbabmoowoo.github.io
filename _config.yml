@@ -11,7 +11,7 @@ safe: true
 
 # edit here to achieve your personal greatness
 url: https://kimbabmoowoo.github.io/
-baseurl: https://kimbabmoowoo.github.io/
+baseurl: /
 title: Donghoon Kang
 author: Donghoon Kang
 #description: Personal webpage
