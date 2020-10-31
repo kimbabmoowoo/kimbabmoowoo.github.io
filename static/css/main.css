@@ -7,11 +7,13 @@ body {
   /* font-family: 'Source Sans Pro', sans-serif; */
   font-family: Georgia, serif;
   /* The html and body elements cannot have any padding or margin. */
-  border-top: 3px solid #27A822;
+   /* border-top: 3px solid #27A822;*/
+  border-top: 3px solid #045FB4;
 }
 /* Wrapper for page content to push down footer */
 #wrap {
-  padding-bottom: 50px;	
+  /*padding-bottom: 50px; */
+  padding-bottom: 10px;
   min-height: 100%;
   height: auto;
   /* Negative indent footer by its height */
@@ -90,8 +92,8 @@ body {
 
 .container {
   width: auto;
-  max-width: 800px;
-  text-align: center;
+ /* max-width: 800px; */
+ /* text-align: center; */
 }
 .container .text-muted {
   margin: 20px 0;
@@ -130,7 +132,8 @@ body {
   border-style: none;
 }
 .panel-body {
-  padding-top: -10px;
+ /* padding-top: -10px; */
+ padding-top: 1px;
   text-align: left;
 }
 .social {
