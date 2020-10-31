@@ -1,0 +1,327 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Probability-Based Rendering for View Synthesis</title>
+<link rel="stylesheet" type="text/css" href="style.css" media="all" />
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-46776942-1', 'yonsei.ac.kr');
+  ga('send', 'pageview');
+
+</script>
+
+</head>
+
+<body>
+<div class="container"> <span class="venue">IEEE Trans. on Image Process.</span>
+  <span class="title">Probability-Based Rendering for View Synthesis</span>
+  <table border="0" align="center" class="authors">
+    <tr align="center">
+      <td><a target="_blank" href="http://diml.yonsei.ac.kr/~ham" class="author">Bumsub Ham</a><sup>1</sup></td>
+      <td><a target="_blank" href="http://diml.yonsei.ac.kr/~forevertin">Dongbo Min</a><sup>2</sup></td>
+      <td>Changjae Oh<sup>1</sup></td>
+      <td><a target="_blank" href="http://www.ifp.illinois.edu/~minhdo/">Minh N. Do</a><sup>3</sup></td>
+      <td><a target="_blank" href="http://diml.yonsei.ac.kr/professor.html"> Kwanghoon Sohn</a><sup>1</sup></td>
+    </tr>
+  </table>
+  <table border="0" align="center" class="affiliations">
+    <tr>
+      <td><sup>1</sup><a target="_blank" href="http://www.yonsei.ac.kr/eng/">Yonsei Univ.</a></td>
+      <td><sup>2</sup><a target="_blank" href="http://adsc.illinois.edu/">ADSC</a></td>
+      <td><sup>3</sup><a target="_blank" href="http://illinois.edu/">UIUC</a></td>
+    </tr>
+  </table>
+  <p>&nbsp;</p>
+  <table width="200" border="0" align="center">
+    <tr>
+      <td><img src="images/paper_teaser.png" width="950" /><br /></td>
+    </tr>
+    <tr>
+      <td class="caption">A comparison of the PBR and the DIBR: with (a) the left reference image and (b) corresponding depth map and matching probability, intermediate views were rendered via (c) the DIBR and (d) the PBR, respectively.</td>
+    </tr>
+  </table>
+  <p>&nbsp;</p>
+  <span class="section">Abstract</span>
+  <p>In this paper, a probability-based rendering (PBR) method is described for reconstructing an intermediate view with a steady-state matching probability (SSMP) density function.
+    Conventionally, given multiple reference images, the intermediate view is synthesized via the depth image-based rendering (DIBR) technique in which geometric information (e.g., depth)
+    is explicitly leveraged, thus leading to serious rendering artifacts on the synthesized view even with small depth errors. We address this problem by formulating the rendering process as
+    an image fusion in which the textures of all probable matching points are adaptively blended with the SSMP representing the likelihood that points among the input reference images are
+    matched. The PBR hence becomes more robust against depth estimation errors than existing view synthesis approaches. The matching probability (MP) in the steady-state, SSMP, is inferred
+    for each pixel via the random walk with restart (RWR). The RWR always guarantees visually consistent MP, as opposed to conventional optimization schemes (e.g., diffusion or filtering
+    based approaches), the accuracy of which heavily depends on parameters used. Experimental results demonstrate the superiority of the PBR over the existing view synthesis approaches both
+    qualitatively and quantitatively. Especially, the PBR is effective in suppressing flicker artifacts of virtual video rendering although no temporal aspect is considered. Moreover, it is shown that
+    the depth map itself calculated from our RWR-based method (by simply choosing the most probable matching point) is also comparable to that of the state-of-the-art local stereo matching
+    methods.<br /><br />
+   </p>
+
+
+<p><b>Paper:</b> <a target="_blank" href="http://diml.yonsei.ac.kr/~ham/publication/tip2014/pbr_TIP2014.pdf">PDF</a> </p>
+<p><b>Previous Work:</b> </p>
+<p>Probabilistic Correspondence Matching using Random Walk with Restart<br>
+<em> British Machine Vision Conference</em> (<b>BMVC</b>), 2012.
+<a target="_blank" href="http://diml.yonsei.ac.kr/~ham/publication/bmvc2012/rwr_stereo_bmvc2012.pdf"> [PDF] </a>
+<a target="_blank" href="http://diml.yonsei.ac.kr/~ham/publication/bmvc2012/rwr_stereo_ppt_bmvc2012.pdf">[PPT] </a></p>
+
+</a><span class="section">Code</span>
+<p><a href="code/StereoMatcher_SSMP_Code_middlebury.rar"><b>SSMP </b> - MATLAB (rar), ver1.0 (2013.12.30), 2451KB</a></p>
+<p><b>PBR</b> - Available upon request </p>
+<p>&nbsp;</p>
+
+<!-- <a name="data" id="data"></a><span class="section">Data and Code</span>
+<p><a href="ObjectDiscovery-data.zip">Datasets and results</a> (420mb) - all the datasets that appeared in the paper, including our Internet datasets with human foreground-background segmentations. It also contains our segmentation resutls and the results of several existing co-segmentation methods we compared with in the paper.</p>
+<p><a href="ObjectDiscovery.zip">Matlab code</a> - currently includes code for evaluating the segmentation accuracy and visualizing the results. Reproduces all the numerical evaluations and some of the <br />
+  figures in the paper. See the README file for details.</p>
+<p><br />
+</p> -->
+
+<a name="exp" id="exp"></a><span class="section">Experimental Results: SSMP</span>
+<p><b>Results for the Middlebury Stereo</b></p>
+<table>
+<tr align="center">
+<td>
+<img src="images/tsukuba.png" height="180" /><br />
+</td>
+<td>
+<img src="images/venus.png" height="180" /><br />
+</td>
+<td>
+<img src="images/teddy.png" height="180" /><br />
+</td>
+<td>
+<img src="images/cones.png" height="180" /><br />
+</td>
+</tr>
+
+<tr align="center">
+<td>
+<img src="images/tsukuba_gt.png" height="180" /><br />
+</td>
+<td>
+<img src="images/venus_gt.png" height="180" /><br />
+</td>
+<td>
+<img src="images/teddy_gt.png" height="180" /><br />
+</td>
+<td>
+<img src="images/cones_gt.png" height="180" /><br />
+</td>
+</tr>
+
+<tr align="center">
+<td>
+<img src="images/tsukuba_ssmp.png" height="180" /><br />
+</td>
+<td>
+<img src="images/venus_ssmp.png" height="180" /><br />
+</td>
+<td>
+<img src="images/teddy_ssmp.png" height="180" /><br />
+</td>
+<td>
+<img src="images/cones_ssmp.png" height="180" /><br />
+</td>
+</tr>
+</table>
+<p class="caption">Results for (left to right) <em>Tsukuba</em>, <em>Venus</em>, <em>Teddy</em> and <em>Cones</em>: (from top to bottom) left image,
+(b) ground truth, and (c) depth maps obtained from the SSMP. The proposed
+method provides high quality depth maps especially around depth boundaries,
+although only 4-neighborhood is used for inferring matching probability.</p>
+
+<p><b>Numerical Evaluation</b></p>
+<table width="200" border="0" align="center">
+    <tr>
+      <td><img src="images/middle.png" width="950" /><br /></td>
+    </tr>
+</table>
+
+<a name="exp" id="exp"></a><span class="section">Experimental Results: PBR</span>
+<p><b>Comparison to DIBR with Still Images</b></p>
+<table>
+<tr align="center">
+<td>
+<img src="images/Teddy_DIBR_Nocc_1.png" height="150" /><br />
+</td>
+<td>
+<img src="images/Teddy_DIBR_Nocc_POST_1.png" height="150" /><br />
+</td>
+<td>
+<img src="images/Teddy_DIBR_occ_1.png" height="150" /><br />
+</td>
+<td>
+<img src="images/Teddy_DIBR_occ_POST_1.png" height="150" /><br />
+</td>
+<td>
+<img src="images/Teddy_PBR_1.png" height="150" /><br />
+</td>
+</tr>
+
+<tr align="center">
+<td>
+<img src="images/Teddy_DIBR_Nocc_7.png" height="150" /><br />
+</td>
+<td>
+<img src="images/Teddy_DIBR_Nocc_POST_7.png" height="150" /><br />
+</td>
+<td>
+<img src="images/Teddy_DIBR_occ_7.png" height="150" /><br />
+</td>
+<td>
+<img src="images/Teddy_DIBR_occ_POST_7.png" height="150" /><br />
+</td>
+<td>
+<img src="images/Teddy_PBR_7.png" height="150" /><br />
+</td>
+</tr>
+
+<tr align="center">
+<td>
+<img src="images/Teddy_DIBR_Nocc_21.png" height="150" /><br />
+</td>
+<td>
+<img src="images/Teddy_DIBR_Nocc_POST_21.png" height="150" /><br />
+</td>
+<td>
+<img src="images/Teddy_DIBR_occ_21.png" height="150" /><br />
+</td>
+<td>
+<img src="images/Teddy_DIBR_occ_POST_21.png" height="150" /><br />
+</td>
+<td>
+<img src="images/Teddy_PBR_21.png" height="150" /><br />
+</td>
+</tr>
+</table>
+<p class="caption">Intermediate views of Cones [32] for (from left to right) the DIBR(NOcc), the DIBR(NOcc+POST1), DIBR(Occ), DIBR(Occ+POST1), and the PBR with (from top to bottom) the AW(1), the AW(7), and the AW(21),
+respectively. Although the PBR implicitly handle the occlusion and disocclusion regions, it show the sharp transition around the boundaries in contrast to the DIBR. Furthermore, the PBR is more powerful when the low
+quality MP is given, since it relaxes the errors from local minima. See the Table IV for the object comparison.</p>
+
+<table width="200" border="0" align="center">
+    <tr>
+      <td><img src="images/dibr_pbr.png" width="950" /><br /></td>
+    </tr>
+</table>
+
+<p><b>Comparison to DIBR with Video Sequences</b></p>
+
+<p><em>Vassar</em> sequence [1], rendered from the view point of 0 and 2 to that of 1 by the DIBR [2] and the PBR.</p>
+<table>
+<tr align="center">
+<td>
+<iframe width="320" height="240" src="http://www.youtube.com/embed/i0OLGuKz_xc?feature=player_detailpage?rel=0;vq=hd1080&amp;version=3" frameborder="0" allowfullscreen></iframe>
+</td>
+<td>
+<iframe width="640" height="240" src="http://www.youtube.com/embed/5Qa8IhzsIPE?feature=player_detailpage?rel=0;vq=hd1080&amp;version=3" frameborder="0" allowfullscreen></iframe>
+</td>
+</tr>
+<tr align="center">
+<td>
+<span><a href="videos/vassar_gt.mov">Ground truth</a> (mov, 5mb)</span>
+</td>
+<td>
+<span><a href="videos/vassar.mov">Rendering results</a> (mov, 6mb)</span>
+</td>
+</tr>
+</table>
+
+<p><em>BookArrival</em> sequence [3], rendered from the view point of 6 and 10 to that of 8  by the DIBR [2] and the PBR.</p>
+<table>
+<tr align="center">
+<td>
+<iframe width="320" height="240" src="http://www.youtube.com/embed/lBWkcyffJk4?feature=player_detailpage?rel=0;vq=hd1080&amp;version=3" frameborder="0" allowfullscreen></iframe>
+</td>
+<td>
+<iframe width="640" height="240" src="http://www.youtube.com/embed/K3DvtvDJKWk?feature=player_detailpage?rel=0;vq=hd1080&amp;version=3" frameborder="0" allowfullscreen></iframe>
+</td>
+</tr>
+<tr align="center">
+<td>
+<span><a href="videos/bookarrival_gt.mov">Ground truth</a> (mov, 4mb)</span>
+</td>
+<td>
+<span><a href="videos/bookarrival.mov">Rendering results</a> (mov, 5mb)</span>
+</td>
+</tr>
+</table>
+
+<p><em>Poznan</em> sequence [3], rendered from the view point of 4 and 5 to that of 3 by the DIBR [2] and the PBR.</p>
+<table>
+<tr align="center">
+<td>
+<iframe width="320" height="240" src="http://www.youtube.com/embed/hAkgHZfZhNM?feature=player_detailpage?rel=0;vq=hd1080&amp;version=3" frameborder="0" allowfullscreen></iframe>
+</td>
+<td>
+<iframe width="640" height="240" src="http://www.youtube.com/embed/ZX4NLOY1AdI?feature=player_detailpage?rel=0;vq=hd1080&amp;version=3" frameborder="0" allowfullscreen></iframe>
+</td>
+</tr>
+<tr align="center">
+<td>
+<span><a href="videos/poznan_street_gt.mov">Ground truth</a> (mov, 2mb)</span>
+</td>
+<td>
+<span><a href="videos/poznan_street.mov">Rendering results</a> (mov, 4mb)</span>
+</td>
+</tr>
+</table>
+
+
+<p><em>GtFly</em></b> sequence [3], rendered from the view point of 1 and 9 to that of 5 by the DIBR [2] and the PBR.</p>
+<table>
+<tr align="center">
+<td>
+<iframe width="320" height="240" src="http://www.youtube.com/embed/1y5X9tbVnnA?feature=player_detailpage?rel=0;vq=hd1080&amp;version=3" frameborder="0" allowfullscreen></iframe>
+</td>
+<td>
+<iframe width="640" height="240" src="http://www.youtube.com/embed/v_BBFLfAVYQ?feature=player_detailpage?rel=0;vq=hd1080&amp;version=3" frameborder="0" allowfullscreen></iframe>
+</td>
+</tr>
+<tr align="center">
+<td>
+<span><a href="videos/gt_fly_gt.mov">Ground truth</a> (mov, 4mb)</span>
+</td>
+<td>
+<span><a href="videos/gt_fly.mov">Rendering results</a> (mov, 8mb)</span>
+</td>
+</tr>
+</table>
+
+<p>[1] ISO/IEC JTC1/SC29/WG11 "Multiview Video Test Sequences from MERL," ISO/IEC JTC1/SC29/WG11 Doc. M12077, Apr. 2005. <br>
+[2] D. Min, D. Kim, S. Yun, and K. Sohn, "2D/3D Freeview Video Generation for 3DTV System," <em>Signal Processing: Image Communication</em>, vol. 24, no. 1-2, pp. 31-48, 2009. <br>
+[3] ISO/IEC JTC1/SC29/WG11, "Call for Proposals on 3D Video Coding Technology," ISO/IEC JTC1/SC29/WG11 Doc. N12036, Mar. 2011. </p>
+<p>&nbsp;</p>
+
+<span class="section">References</span>
+<p><b>Citation</b> </p>
+<p>[1] B. Ham, D. Min, C. Oh, M. N. Do, and K. Sohn, Probability-Based Rendering for View Synthesis, IEEE Trans. on Image Process., vol. 23, no. 2, pp. 870-884, Feb. 2014. <br>
+[2] C. Oh, B. Ham, and K. Sohn, Probabilistic Correspondence Matching using Random Walk with Restart, British Machine Vision Conference (BMVC), Sep. 2012. </p>
+<p><b>BibTex</b> <br>
+<p class="bibtex">@article{Ham14tip,
+  author = {Bumsub Ham and Dongbo Min and Changjae Oh and Minh N. Do and Kwanghoon Sohn},
+  title = {Probability-Based Rendering for View Synthesis},
+  journal = {IEEE Trans. on Image Process. (TIP)},
+  year = {2014},
+  month = {Feb.}
+}</p>
+<p class="bibtex">@inproceedings{Oh12bmvc,
+  author = {Changjae Oh and Bumsub Ham and Kwanghoon Sohn},
+  title = {Probabilistic Correspondence Matching using Random Walk with Restart},
+  journal = {British Machine Vision Conference (BMVC)},
+  year = {2012},
+  month = {Sep.}
+}</p>
+
+<span class="section">Acknowledgements</span>
+<p>This work was supported by the National Research Foundation of Korea(NRF) grant funded by the Korea government(MSIP) (NRF-2013R1A2A2A01068338).</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p align="center" class="date">Last updated: Apr, 2014</p>
+</div>
+</body>
+</html>

@@ -9,20 +9,22 @@ gems: [jekyll-paginate]
 port: 3000
 safe: true
 
+
 # edit here to achieve your personal greatness
-url: https://kimbabmoowoo.github.io/
+url: http://bsham.github.io/
 baseurl: /
-title: Donghoon Kang
-author: Donghoon Kang
-#description: Personal webpage
-avatar: profile.jpg
-#email: chocopie@kist.re.kr
-#github: kimbabmoowoo # username
-#linkedin: 
-#stackoverflow: username   #e.g: users/
+title: Bumsub Ham
+author: Bumsub Ham
+description: Personal webpage
+avatar: profile.png
+email: bumsub.ham@yonsei.ac.kr
+github: bsham # username
+#twitter: username
+linkedin: bumsubham
+#stackoverflow: username   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus 
 #disqus: username
-#google_analytics: 
+#google_analytics: UA-69391421-1
 
 
 # needed for travis-ci build
