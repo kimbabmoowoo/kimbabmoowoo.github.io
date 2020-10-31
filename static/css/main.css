@@ -141,7 +141,8 @@ body {
   color: #000000;
 }
 .avatar {
-  padding-top: 5%;
+ /* padding-top: 5%;*/
+ padding-top: 1px;
 }
 .blog-post{
   padding-top: 15px;
@@ -150,7 +151,7 @@ body {
   padding-top: 2px;
 }
 .related-posts h4 {
-  text-align: center;
+ text-align: left;
 }
 .page-not-found {
   padding-top: 20%;
@@ -175,7 +176,7 @@ body {
 	color: #6b6b6b;
 }
 div.footer{
-  border-bottom: 5px solid #27A822;;
+  border-bottom: 5px solid #045FB4;
 }
 /* Set the fixed height of the footer here */
 /*.footer {
