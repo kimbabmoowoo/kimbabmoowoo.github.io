@@ -9,23 +9,14 @@ gems: [jekyll-paginate]
 port: 3000
 safe: true
 
-
 # edit here to achieve your personal greatness
-url: http://bsham.github.io/
+url: http://kimbabmoowoo.github.io/
 baseurl: /
-title: Bumsub Ham
-author: Bumsub Ham
+title: Donghoon Kang
+author: Donghoon Kang
 description: Personal webpage
 avatar: profile.png
-email: bumsub.ham@yonsei.ac.kr
-github: bsham # username
-#twitter: username
-linkedin: bumsubham
-#stackoverflow: username   #e.g: users/2735833/proton1h1
-#Comment out if you don't want disqus 
-#disqus: username
-#google_analytics: UA-69391421-1
-
+github: kimbabmowoo# username
 
 # needed for travis-ci build
 exclude: [vendor]
